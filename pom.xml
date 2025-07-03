@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>Ecommerce_Nikee01_Registration_login</artifactId>
+	<artifactId>EcommerceNikee01Registrationlogin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Ecommerce_Nikee01_Registration_login</name>
+	<name>EcommerceNikee01Registrationlogin</name>
 	<description>Registration and login </description>
 	<url/>
 	<licenses>
